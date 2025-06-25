@@ -1,3 +1,2 @@
-# tenzy
-Tenzy dice game
+# tenzy dice game
 This project is a full C++ implementation of the dice game Tenzy, developed as part of UCLA’s CS 31 course. While some skeleton code (including the Board class and framework of the main.cpp) was provided, I implemented all core gameplay logic, including the Die, DieManager, Player, and Tenzy classes. The game allows a human player to compete against a computer, with both trying to roll and lock all ten dice to a target match value. Key functionality includes dice rolling, locking, turn-based play, win detection, and support for test-mode cheat strings. This project deepened my understanding of class-based design, encapsulation, state management, and randomized simulation within C++.
