@@ -1,0 +1,2 @@
+# tenzy
+Tenzy dice game
